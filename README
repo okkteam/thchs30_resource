@@ -1,0 +1,4 @@
+some resouces for the Kaldi thchs30 recipe
+
+dict : dictionary for words in the training data
+noise: noise data for producing noisy training/dev/test data
